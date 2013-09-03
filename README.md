@@ -34,3 +34,5 @@ Next, open up Android Studio.
 3. One the app opens, it will look like this. Notice the Lab0 header on the top of Android Studio. ![alt text](https://raw.github.com/mobileproto/ReadmeFiles/master/Lab0Files/androidstudio.png "android")
 4. Lastly, press Run and watch your Android emulator open to the HelloWorld app
 ![alt text](https://raw.github.com/mobileproto/ReadmeFiles/master/Lab0Files/run.png "running") 
+
+_W000000! Your just ran your first Android app_
